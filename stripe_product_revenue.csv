@@ -1,0 +1,7 @@
+Product,Annual_Run_Rate_M,Active_Users,Year,Notes
+Stripe Payments,4600,5000000,2024,Core payment processing - ~90% of net revenue
+Stripe Billing,500,300000,2024,Managing ~200M active subscriptions
+Stripe Capital,150,500000,2024,Growth capital - funds in under 48 hours
+Stripe Atlas,50,200000,2024,1 in 6 new Delaware corps incorporates via Atlas
+Stripe Radar,100,1000000,2024,Fraud prevention and machine learning
+Stripe Connect,200,500000,2024,Platform and marketplace payments
